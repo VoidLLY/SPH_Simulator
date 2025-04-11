@@ -1,4 +1,4 @@
-# ACSE-4-SPH Team Humphrey
+# SPH Simulator
 
 ![](wave_velocity.gif)
 
