@@ -16,7 +16,7 @@ This model uses C++ with OpenMP.
 
 To import the code (when in the chosen directory) go into the terminal and enter:
 ```
-git clone git@github.com:acse-2019/acse-4-sph-humphrey.git
+git clone https://github.com/VoidLLY/SPH_Simulator.git
 ```
 To check whether the ouput files are correct, Python must also be installed with the vtk library. To install, write the following into the command line:
 ```
